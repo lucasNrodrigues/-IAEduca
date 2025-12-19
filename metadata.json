@@ -1,0 +1,7 @@
+{
+  "name": "IAEduca",
+  "description": "Uma plataforma inteligente para professores criarem, editarem, corrigirem e imprimirem provas utilizando o poder da Inteligência Artificial Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
